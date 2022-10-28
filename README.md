@@ -1,12 +1,20 @@
- Hi, I’m @RominaVargas :sparkles:
+<div id="banner" align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQFeZJt-qGBMmQ/profile-displaybackgroundimage-shrink_350_1400/0/1662767767477?e=1672272000&v=beta&t=Cuc7S_FtKrWGZpKQ8SEZyujLNNVtt6EW3tPifr8yIlo"/>
+</div>
 
+
+# Hi, I’m @RominaVargas :sparkles:
+- I'm a FrontEnd Developer from Chile
+
+
+---
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
----
 - 👀 I’m interested in telling my story through my work by creating and developing tech projects.
-- Tools and 
+- :computer: Tools i worked with:
+
 - 🌱 I’m currently learning React and NodeJs
 
 ---
